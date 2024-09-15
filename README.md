@@ -1,2 +1,2 @@
-# python-programming-Kewalin-Ngamchan
-Labb1
+# Python Programming
+This repository contains Python code related to exercises, labs, and projects for Python programming.
